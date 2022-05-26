@@ -1,0 +1,34 @@
+{
+    "listings": [
+        {
+            "nome": "Villa Bianca",
+            "descrizione": "Descrizione della villa Bianca",
+            "immagine":"https://txc5xc6e.cdn.imgeng.in/custom/01505/foto/20180803173910-2.jpg",
+            "prezzo":"300.000"
+        },
+        {
+            "nome": "Villa Azzurra",
+            "descrizione": "Descrizione della villa Azzurra",
+            "immagine":"https://txc5xc6e.cdn.imgeng.in/custom/01505/foto/20200625164347-31.jpg",
+            "prezzo":"330.000"
+        },
+        {
+            "nome": "Villa Gialla",
+            "descrizione": "Descrizione della villa Gialla",
+            "immagine":"https://www.cw-ibiza.it/upload/cw-ibiza-14852050521.jpg",
+            "prezzo":"305.000"
+        },
+        {
+            "nome": "Chalet Grumer",
+            "descrizione": "Descrizione dello Chalet Grumer",
+            "immagine":"https://www.chaletgrumer.it/sites/default/files/styles/full/public/fullpage/Chalet-Suedtirol-Mieten-Privat-Entlegen-Ruhig-Garten-Gepflegt-Alpine-Architektur.jpg?h=8250766a&itok=rclfCObt",
+            "prezzo":"230.000"
+        },
+        {
+            "nome": "Chalet Cortina",
+            "descrizione": "Descrizione dello Chalet Cortina",
+            "immagine":"https://www.casait.it/files/580/album/luxury-apartment-terrace-garden-for-sale-trento-91810.jpg",
+            "prezzo":"260.000"
+        }
+    ]
+}

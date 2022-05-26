@@ -1,0 +1,17 @@
+html, body {
+    height: 100%;
+}
+
+#root {
+    height: 100%;
+}
+
+.App {
+    height: 100%;
+}
+
+.ListingSlideShow {
+    & * {
+        transition: background-image 1s;
+    }
+}
